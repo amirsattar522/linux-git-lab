@@ -1,3 +1,3 @@
 #!/bin/bash
 DATE=$(date)
-echo "Backup taken at $DATE" >> logs/app.log
+echo "Backup done at $DATE" >> logs/app.log
